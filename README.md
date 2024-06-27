@@ -14,7 +14,6 @@ Below you will find an explanation of the folders.*
 ![java](https://img.shields.io/badge/%E2%98%95%20Java-1d262c?style=for-the-badge&logo=%E2%98%95&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-142800?style=for-the-badge&logo=Android&logoColor=Green)&nbsp;
 ![FireBase](https://img.shields.io/badge/FireBase-red?style=for-the-badge&logo=FireBase&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualStudio&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 > [!IMPORTANT]
